@@ -7,7 +7,7 @@
 title: Victor50
 
 # First name or full name
-name: Victor
+name: Victor bla blza 
 date: 2020-06-11 11:30
 
 # One line.
